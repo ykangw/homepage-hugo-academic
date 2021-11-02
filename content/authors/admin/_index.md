@@ -70,8 +70,6 @@ email: "yikang.wang.21@ucl.ac.uk"
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Yikang Wang, a first-year PhD student at CASA, UCL. Prior to this, I obtained a BEng in GIS from Wuhan University with honour, followed by an MSc in Computational Science at Imperial College. I am working on the analysis of human mobility in London in {{< staticref "https://smartcityanalysis.com/index.html" "newtab" >}}realTRIPS (Redefining Variability: EvALuating Land Use and TRansport Impacts on Urban Mobility PatternS){{< /staticref >}} project. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
