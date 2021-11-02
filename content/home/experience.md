@@ -25,7 +25,7 @@ experience:
   - title: Robotics Research Intern 
     company: Antobot
     company_url: 'https://www.antobot.ai/'
-    company_logo: org-A
+    company_logo: antobot
     location: Chelmsford, UK
     date_start: '2021-06-01'
     date_end: '2021-10-01'
@@ -34,7 +34,7 @@ experience:
   - title: GIS Research Intern 
     company: CityDNA 
     company_url: 'https://www.citydnatech.com/'
-    company_logo: org-C
+    company_logo: citydna
     location: Beijing, China
     date_start: '2020-10-01'
     date_end: '2020-06-01'
