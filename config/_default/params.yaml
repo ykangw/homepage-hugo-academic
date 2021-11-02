@@ -20,18 +20,18 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: yikang.wang.21@ucl.ac.uk
+# phone: 888 888 88 88
 address:
-  street: 450 Serra Mall
-  city: Stanford
+  street: 90 Tottenham Court Rd
+  city: London
   region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  postcode: 'W1T 4TJ'
+  country: United Kingdom
+  country_code: UK
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
+  latitude: '51.5219'
+  longitude: '0.1361'
 directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 office_hours:
   - 'Monday 10:00 to 13:00'
