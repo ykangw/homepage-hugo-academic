@@ -25,16 +25,16 @@ experience:
   - title: Robotics Research Intern 
     company: Antobot
     company_url: 'https://www.antobot.ai/'
-    company_logo: org-Antobot
+    company_logo: org-A
     location: Chelmsford, UK
     date_start: '2021-06-01'
     date_end: '2021-10-01'
     description: Worked on sensor fusion of RTK-GNSS, IMU and visual SLAM for outdoor robot perception and navigation.
-        
+
   - title: GIS Research Intern 
     company: CityDNA 
     company_url: 'https://www.citydnatech.com/'
-    company_logo: org-CityDNA
+    company_logo: org-C
     location: Beijing, China
     date_start: '2020-10-01'
     date_end: '2020-06-01'
