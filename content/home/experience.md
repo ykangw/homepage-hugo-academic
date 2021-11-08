@@ -24,14 +24,14 @@ date_format: Jan 2006
 experience:
   - title: Graduate Teaching Assistant
     company: UCL
-    # company_url: 'https://www.antobot.ai/'
-    # company_logo: antobot
+    # company_url: 'https://www.ucl.ac.uk/bartlett/casa'
+    # company_logo: ucl
     location: London, UK
     date_start: '2021-10-01'
     date_end: 'Present'
     description: Teaching CASA0007 - Quantitative Methods.
 
-- title: Robotics Research Intern 
+  - title: Robotics Research Intern 
     company: Antobot
     company_url: 'https://www.antobot.ai/'
     # company_logo: antobot
