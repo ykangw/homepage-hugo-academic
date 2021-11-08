@@ -14,13 +14,12 @@ organizations:
   url: https://www.ucl.ac.uk/bartlett/casa
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include urban analysis and human mobility.
+bio: My research interests include Urban Computing and GeoAI.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Urban Computing
+- GeoAI
 
 # Education to show in About widget
 education:
@@ -70,6 +69,6 @@ email: "yikang.wang.21@ucl.ac.uk"
 highlight_name: true
 ---
 
-I am Yikang Wang, a first-year PhD student at CASA, UCL. Prior to this, I obtained a BEng in GIS from Wuhan University with honour, followed by an MSc in Computational Science at Imperial College. I am working on the analysis of human mobility in London in {{< staticref "https://smartcityanalysis.com/index.html" "newtab" >}}realTRIPS (Redefining Variability: EvALuating Land Use and TRansport Impacts on Urban Mobility PatternS){{< /staticref >}} project. 
+I am Yikang Wang, a first-year PhD student at {{< staticref "www.ucl.ac.uk/bartlett/casa" "newtab" >}}the Bartlett Centre for Advanced Spatial Analysis (CASA){{< /staticref >}}, {{< staticref "www.ucl.ac.uk" "newtab" >}}UCL{{< /staticref >}}, supervised by {{< staticref "imzhongchen.wordpress.com/" "newtab" >}}Dr Chen Zhong{{< /staticref >}} and {{< staticref "www.complexcity.info" "newtab" >}}Prof Micheal Batty{{< /staticref >}}. Prior to this, I obtained a BEng in GIS from Wuhan University with honour, followed by an {{< staticref "www.imperial.ac.uk/study/pg/earth-science/computational-science" "newtab" >}}MSc in Computational Science{{< /staticref >}} at {{< staticref "www.imperial.ac.uk" "newtab" >}}Imperial College London{{< /staticref >}}. I am working on the analysis of human mobility in London in {{< staticref "smartcityanalysis.com/index.html" "newtab" >}}realTRIPS (Redefining Variability: EvALuating Land Use and TRansport Impacts on Urban Mobility PatternS){{< /staticref >}} project. 
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
