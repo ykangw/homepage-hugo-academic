@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Graduate Teaching Assistant
     company: UCL
-    # company_url: 'https://www.ucl.ac.uk/bartlett/casa'
+    company_url: 'https://www.ucl.ac.uk/'
     # company_logo: ucl
     location: London, UK
     date_start: '2021-10-01'
