@@ -5,7 +5,7 @@
 
 title: Yikang Wang # Website name
 baseurl: 'https://example.com/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© Yikang Wang 2021' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
