@@ -22,13 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Robotics Research Intern 
+  - title: Graduate Teaching Assistant
+    company: UCL
+    # company_url: 'https://www.antobot.ai/'
+    # company_logo: antobot
+    location: London, UK
+    date_start: '2021-10-01'
+    date_end: 'Present'
+    description: Teaching CASA0007 - Quantitative Methods.
+
+- title: Robotics Research Intern 
     company: Antobot
     company_url: 'https://www.antobot.ai/'
     # company_logo: antobot
     location: Chelmsford, UK
     date_start: '2021-06-01'
-    date_end: '2021-10-01'
+    date_end: '2021-09-30'
     description: Worked on sensor fusion of RTK-GNSS, IMU and visual SLAM for outdoor robot perception and navigation.
 
   - title: GIS Research Intern 

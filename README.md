@@ -1,5 +1,7 @@
 # Yikang's Homepage
 
-https://yikang.netlify.app/
+<http://yikang.site/>
 
-Built with [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
+<https://yikang.netlify.app/>
+
+Built with [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic).
