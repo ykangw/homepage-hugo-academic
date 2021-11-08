@@ -28,7 +28,7 @@ experience:
     # company_logo: ucl
     location: London, UK
     date_start: '2021-10-01'
-    date_end: 'Present'
+    date_end: ''
     description: Teaching CASA0007 - Quantitative Methods.
 
   - title: Robotics Research Intern 
