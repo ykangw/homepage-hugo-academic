@@ -23,15 +23,15 @@ twitter: ''
 email: yikang.wang.21@ucl.ac.uk
 # phone: 888 888 88 88
 address:
-  street: 90 Tottenham Court Rd
+  street: The Bartlett Centre for Advanced Spatial Analysis, UCL. 90 Tottenham Court Rd
   city: London
-  region: CA
+  # region: CA
   postcode: 'W1T 4TJ'
   country: United Kingdom
   country_code: UK
 coordinates:
-  latitude: '51.5219'
-  longitude: '0.1361'
+  latitude: '51.521948'
+  longitude: '0.136254'
 # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 # office_hours:
 #   - 'Monday 10:00 to 13:00'
@@ -76,7 +76,8 @@ address_format: en-us
 
 highlight: true
 highlight_languages:
-  - r
+  - Python
+  - C/C++
 math: false
 diagram: false
 privacy_pack: false
@@ -141,7 +142,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: ''
+  provider: mapnik
   api_key: ''
   zoom: 15
 marketing:
