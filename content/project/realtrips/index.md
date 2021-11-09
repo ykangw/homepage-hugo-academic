@@ -7,11 +7,11 @@ tags:
 date: "2021-09-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://smartcityanalysis.com/index.html"
+external_link: ""
 
-# image:
-#   caption: Photo by rawpixel on Unsplash
-#   focal_point: Smart
+image:
+  caption: Funded by European Research Council (ERC).
+  focal_point: Smart
 
 # links:
 # - icon: twitter
@@ -22,6 +22,7 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
+url: "https://smartcityanalysis.com/index.html"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
