@@ -1,6 +1,6 @@
 ---
 title: "Redefining Variability: EvALuating Land Use and TRansport Impacts on Urban Mobility PatternS (realTRIPS)"
-summary: An example of using the in-built project page.
+summary: PhD project funded by ERC.
 tags:
 - Urban Computing
 - GeoAI
