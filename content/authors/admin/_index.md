@@ -14,7 +14,7 @@ organizations:
   url: https://www.ucl.ac.uk/bartlett/casa
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Urban Computing and GeoAI.
+bio: Centre for Advanced Spatial Analysis (CASA), UCL
 
 # Interests to show in About widget
 interests:
