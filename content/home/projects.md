@@ -27,8 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Urban Computing
+    tag: Urban Computing
+  - name: GeoAI
+    tag: GeoAI
+  - name: Localization
+    tag: Localization
   - name: Other
     tag: Demo
 
