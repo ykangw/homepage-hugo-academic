@@ -1,5 +1,5 @@
 ---
-title: "Redefining Variability: EvALuating Land Use and TRansport Impacts on Urban Mobility PatternS (realTRIPS)"
+title: Sensory Landmark Recognition for Precise Indoor Positioning Based on LSTM Algorithm
 summary: Undergraduate thesis.
 tags:
 - GeoAI
@@ -19,7 +19,7 @@ external_link: ""
 #   name: Follow
 #   url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: "https://www.mdpi.com/2072-666X/12/7/781/pdf"
+url_pdf: ""  # "https://www.mdpi.com/2072-666X/12/7/781/pdf"
 url_slides: ""
 url_video: ""
 
@@ -35,6 +35,6 @@ Indoor localization is the basis for most Location-Based Services (LBS), includi
 
 ## Publication:
 
-**Wang, Y.**, Zhang, J., Zhao, H., Liu, M., Chen, S., Kuang, J., & Niu, X. (2021). **Spatial Structure-Related Sensory Landmarks Recognition Based on Long Short-Term Memory Algorithm**. *Micromachines, 12*(7), 781.
+**Wang, Y.**, Zhang, J., Zhao, H., Liu, M., Chen, S., Kuang, J., & Niu, X. (2021). Spatial Structure-Related Sensory Landmarks Recognition Based on Long Short-Term Memory Algorithm. *Micromachines, 12*(7), 781.
 
 Link: <https://www.mdpi.com/2072-666X/12/7/781>
