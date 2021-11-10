@@ -39,7 +39,7 @@ tags: []
 # Display this page in the Featured widget?
 featured: true
 
-Custom links (uncomment lines below)
+# Custom links (uncomment lines below)
 links:
 - name: Custom Link
   url: https://www.mdpi.com/2072-666X/12/7/781/htm
