@@ -1,6 +1,6 @@
 ---
 title: Integration of RTK, IMU and visual SLAM for Outdoor Robot Navigation
-summary: Master thesis.
+summary: Master thesis
 tags:
 - GeoAI
 - Localization

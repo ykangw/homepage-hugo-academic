@@ -1,6 +1,6 @@
 ---
 title: Sensory Landmark Recognition for Precise Indoor Positioning Based on LSTM Algorithm
-summary: Undergraduate thesis.
+summary: Undergraduate thesis
 tags:
 - GeoAI
 - Localization
