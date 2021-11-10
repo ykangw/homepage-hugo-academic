@@ -1,40 +1,36 @@
 ---
-title: "Spatial Structure-Related Sensory Landmarks Recognition Based on Long Short-Term Memory Algorithm"
+title: "Performance Analysis of Everton Football Club Based on Tracking Data"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Jiangnan Zhang
-- Hairui Zhao
-- Mengjie Liu
-- Shiyi Chen
-- Jian Kuang
-- Xiaoji Niu
+- Haowen Wang
+- Mingyue Qiu
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 
-date: "2021-06-30T00:00:00Z"
-doi: "https://doi.org/10.3390/mi12070781"
+date: "2020-07-28T00:00:00Z"
+doi: "https://doi.org/10.1109/ICPICS50287.2020.9202246"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-06-30T00:00:00Z"
+publishDate: "2021-07-28T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Micromachines, 12*(7), 781"
-publication_short: ""
+publication: "In *2020 IEEE International Conference on Power, Intelligent Computing and Systems (ICPICS)* (pp. 49-53)"
+publication_short: "*ICPICS 2020*"
 
-abstract: Indoor localization is the basis for most Location-Based Services (LBS), including consumptions, health care, public security, and augmented reality. Sensory landmarks related to the indoor spatial structures (such as escalators, stairs, and corners) do not rely on active signal transmitting devices and have fixed positions, which can be used as the absolute positioning information to improve the performance of indoor localization effectively without extra cost. Specific motion patterns are presented when users pass these architectural structures, which can be captured by mobile built-in sensors, including accelerometers, gyroscopes, and magnetometers, to achieve the recognition of structure-related sensory landmarks. Therefore, the recognition of these landmarks can draw on the mature methods of Human Activity Recognition (HAR) with improvements. To this end, we improved a Long Short-Term Memory (LSTM) neural network to recognize different kinds of spatial structure-related sensory landmarks. Labels of structural sensory landmarks were proposed, and data processing methods (including interpolation, filter, and window length) were used and compared to achieve the highest recognition accuracy of 99.6%.
+abstract: Competitive team sports are one of the most informative scenarios in the research of team cooperation analysis. However, there is a lack of simple, robust and accurate key event-based methods when evaluating the performance of a soccer team. In this paper, we first built a ball-passing network to facilitate teamwork analysis of a soccer team, with the help of which we then proposed a novel model for quality assessment based on highlight moments to evaluate the performance of the team. Further, we develop a third model to identify the rhythm conversion of offensive/defensive tactics so as to quantify them. Using spatiotemporal tracking data of key events in 38 Premier League games, a comprehensive and systematic analysis is formed on the performance of both the team staff and players of the Everton Football Club. Also, the key factors to the match result are quantitatively explored and modeled.
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -47,7 +43,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: Full-Text
-  url: https://www.mdpi.com/2072-666X/12/7/781/htm
+  url: https://ieeexplore.ieee.org/abstract/document/9202246
 
 url_pdf: ''
 url_code: ''
@@ -70,8 +66,7 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- sensorylandmark
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
