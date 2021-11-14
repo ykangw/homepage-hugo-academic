@@ -1,6 +1,6 @@
 # Yikang's Homepage
 
-<http://yikang.site/>
+<https://yikang.site/>
 
 <https://yikang.netlify.app/>
 
