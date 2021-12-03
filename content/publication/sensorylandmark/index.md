@@ -19,7 +19,7 @@ author_notes:
 - "Equal contribution"
 
 date: "2021-06-30T00:00:00Z"
-doi: "https://doi.org/10.3390/mi12070781"
+doi: "10.3390/mi12070781"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-06-30T00:00:00Z"

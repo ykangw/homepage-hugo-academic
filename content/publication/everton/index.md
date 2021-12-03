@@ -15,7 +15,7 @@ authors:
 # - "Equal contribution"
 
 date: "2020-07-28T00:00:00Z"
-doi: "https://doi.org/10.1109/ICPICS50287.2020.9202246"
+doi: "10.1109/ICPICS50287.2020.9202246"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-07-28T00:00:00Z"

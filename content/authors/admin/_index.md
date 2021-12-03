@@ -54,7 +54,7 @@ social:
   link: https://github.com/ykangw
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/yikang-wang-390554a5/
+  link: https://www.linkedin.com/in/yikang-wang-ucl/
 - icon: zhihu
   icon_pack: fab
   link: https://www.zhihu.com/people/applewangyk
@@ -73,6 +73,8 @@ email: "yikang.wang.21@ucl.ac.uk"
 highlight_name: true
 ---
 
-Hi! I am Yikang Wang (王亦康), a first-year PhD student at {{< staticref "https://www.ucl.ac.uk/bartlett/casa" "newtab" >}}the Bartlett Centre for Advanced Spatial Analysis (CASA){{< /staticref >}}, {{< staticref "https://www.ucl.ac.uk" "newtab" >}}UCL{{< /staticref >}}, supervised by {{< staticref "https://imzhongchen.wordpress.com/" "newtab" >}}Dr Chen Zhong{{< /staticref >}} and {{< staticref "https://www.complexcity.info" "newtab" >}}Prof Micheal Batty{{< /staticref >}}. Prior to this, I obtained a BEng in GIS from Wuhan University with honour, followed by an {{< staticref "https://www.imperial.ac.uk/study/pg/earth-science/computational-science" "newtab" >}}MSc in Computational Science{{< /staticref >}} at {{< staticref "https://www.imperial.ac.uk" "newtab" >}}Imperial College London{{< /staticref >}}. I am working on the analysis of human mobility in London in {{< staticref "https://smartcityanalysis.com/index.html" "newtab" >}}realTRIPS (Redefining Variability: EvALuating Land Use and TRansport Impacts on Urban Mobility PatternS){{< /staticref >}} project. 
+Hi! I am Yikang Wang (王亦康), a first-year PhD student at {{< staticref "https://www.ucl.ac.uk/bartlett/casa" "newtab" >}}the Bartlett Centre for Advanced Spatial Analysis (CASA){{< /staticref >}}, {{< staticref "https://www.ucl.ac.uk" "newtab" >}}UCL{{< /staticref >}}, supervised by {{< staticref "https://imzhongchen.wordpress.com/" "newtab" >}}Dr Chen Zhong{{< /staticref >}} and {{< staticref "https://www.complexcity.info" "newtab" >}}Prof Micheal Batty{{< /staticref >}}. Prior to this, I obtained a BEng in GIS from Wuhan University with honour, followed by an {{< staticref "https://www.imperial.ac.uk/study/pg/earth-science/computational-science" "newtab" >}}MSc in Computational Science{{< /staticref >}} at {{< staticref "https://www.imperial.ac.uk" "newtab" >}}Imperial College London{{< /staticref >}}.
+
+I am working on the analysis of human mobility in London in {{< staticref "https://smartcityanalysis.com/index.html" "newtab" >}}realTRIPS (Redefining Variability: EvALuating Land Use and TRansport Impacts on Urban Mobility PatternS){{< /staticref >}} project. 
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

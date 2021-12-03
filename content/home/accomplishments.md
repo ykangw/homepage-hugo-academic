@@ -27,8 +27,8 @@ item:
   date_end: ""
   date_start: "2021-07-25"
   description: ""
-  organization: xuetangX
-  organization_url: https://www.xuetangx.com
+  organization: Tsinghua University # xuetangX
+  organization_url: "" # https://www.xuetangx.com
   title: The New Science of Cities
   url: ""  # https://www.xuetangx.com/course/thu08281002692/7755153
 # - certificate_url: https://www.coursera.org
