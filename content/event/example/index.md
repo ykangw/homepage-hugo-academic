@@ -1,25 +1,25 @@
 ---
-title: Example Talk
+title: Using Twitter to track internal migration in the UK before and during the COVID-19 pandemic
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Geoinformatics 2022
+event_url: https://www.cpgis.org/Conferences/ConferenceDefault.aspx?ID=2078
 
-location: Wowchemy HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: Beijing, China
+# address:
+#  street: 450 Serra Mall
+#  city: Stanford
+#  region: CA
+#  postcode: '94305'
+#  country: United States
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: Geoinformatics 2022
+abstract: "The COVID-19 pandemic has greatly impacted migration patterns. Understanding the consequences of this impact requires the implementation of economical and effective monitoring tools. Here, we propose a privacy-preserving framework for monitoring migration at national and local authority scales based on geocoding and estimating home locations using Twitter data. We demonstrate this approach by analysing data corresponding to the UK, dated from January 2019 to December 2021. Our findings point to complex social processes unfolding differently over space and time, likely driven by variations in policy adherence, vaccine relaxation, and regional interventions. In particular, the pandemic and lockdown policies significantly reduced the rate of migration, but mass vaccination soon mitigated the effect. Furthermore, people moved out of large cities to the nearby countryside during the peak of the pandemic in 2020, and most had not returned by the end of 2021, although large cities recovered more quickly than did other regions. Our results are consistent with official migration flow data released by the Office for National Statistics, showing that despite the biases present in Twitter data, it is highly valuable for trend analysis."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-all_day: false
+date: "2022-08-15"
+date_end: "2022-08-18"
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -35,11 +35,11 @@ image:
   focal_point: Right
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
+url_code: "https://github.com/ykangw/Twitter-Internal-Migration"
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -49,7 +49,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+#slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -57,7 +57,7 @@ slides: example
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- example
+- realtrips
 ---
 
 {{% callout note %}}
