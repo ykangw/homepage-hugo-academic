@@ -29,7 +29,7 @@ experience:
     location: London, UK
     date_start: '2021-10-01'
     date_end: ''
-    description: Teaching [CASA0007 Quantitative Methods](https://www.ucl.ac.uk/module-catalogue/modules/quantitative-methods-CASA0007).
+    description: Teaching [CASA0007 Quantitative Methods](https://www.ucl.ac.uk/module-catalogue/modules/quantitative-methods-CASA0007){:target="_blank"}.
 
   - title: Robotics Research Intern 
     company: Antobot
