@@ -23,7 +23,7 @@ publishDate: "2022-11-15T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Urban Informatics (Accepted)"
+publication: "*Urban Informatics* (Accepted)"
 publication_short: ""
 
 abstract: The COVID-19 pandemic has greatly affected internal migration patterns and may last beyond the pandemic. It raises the need to monitor the migration in an economical, effective and timely way. Benefitting from the advancement of geolocation data collection techniques, we use near real-time and fine-grained Twitter data to monitor migration patterns during the COVID-19 pandemic, dated from January 2019 to December 2021. Based on geocoding and estimating home locations, we proposed five indices depicting migration patterns, which are demonstrated by applying an empirical study at national and local authority scales to the UK. Our findings point to complex social processes unfolding differently over space and time. In particular, the pandemic and lockdown policies significantly reduced the rate of migration. Furthermore, we found a trend of people moving out of large cities to the nearby rural areas, and also conjunctive cities if there is one, before and during the peak of the pandemic. The trend of moving to rural areas became more significant in 2020 and most people who moved out had not returned by the end of 2021, although large cities recovered more quickly than other regions. Our results of monthly migration matrixes are verified to be consistent with official migration flow data released by the Office for National Statistics, but have finer temporal granularity and can be updated more frequently. This study demonstrates that Twitter data is highly valuable for migration trend analysis despite the biases in population representation. 
@@ -42,7 +42,7 @@ featured: false
 #  url: https://www.mdpi.com/2072-666X/12/7/781/htm
 
 url_pdf: ''
-url_code: ''
+url_code: 'https://github.com/ykangw/Twitter-Internal-Migration'
 url_dataset: ''
 url_poster: ''
 url_project: ''
