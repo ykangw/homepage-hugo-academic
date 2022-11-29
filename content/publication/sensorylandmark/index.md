@@ -49,7 +49,7 @@ links:
 - name: Full-Text
   url: https://www.mdpi.com/2072-666X/12/7/781/htm
 
-url_pdf: ''
+url_pdf: 'https://www.mdpi.com/2072-666X/12/7/781/pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
