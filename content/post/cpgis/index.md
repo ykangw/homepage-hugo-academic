@@ -43,9 +43,7 @@ tags:
 
 I was elected as a Student Board of Directors (BOD) Member of **CPGIS** (Chinese Professionals in Geographic Information Sciences) (2023 & 2024, 2-year term). I look forward to contributing to the CPGIS by continuously facilitating the communication between students and faculty. 
 
-Link to the election result: [CPGIS 2022 Election Result](https://www.cpgis.org/News/ShowContent.aspx?ID=5078)
-
-Link to the election statement: [CPGIS 2022 Election Bio and Statement (PDF)](https://www.cpgis.org/userfiles/file/2022_CPGIS_Election__Bio_Statement_update.pdf)
+Link: [CPGIS 2022 Election Result](https://www.cpgis.org/News/ShowContent.aspx?ID=5078), [Election Bio and Statement (PDF)](https://www.cpgis.org/userfiles/file/2022_CPGIS_Election__Bio_Statement_update.pdf)
 
 
 
