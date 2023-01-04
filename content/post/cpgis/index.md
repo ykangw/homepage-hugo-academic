@@ -1,9 +1,9 @@
 ---
-title: "Chinese Professionals in Geographic Information Sciences (CPGIS)"
-subtitle: I was elected as a CPGIS Student BOD member. 
+title: "CPGIS"
+subtitle: Chinese Professionals in Geographic Information Sciences (CPGIS)
 
 # Summary for listings and search engines
-summary: I was elected as a CPGIS Student BOD member. 
+summary: Chinese Professionals in Geographic Information Sciences (CPGIS)
 
 # Link this post with a project
 projects: []
