@@ -30,8 +30,8 @@ publishDate: "2022-02-12T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Transactions in GIS*"
-publication_short: "TGIS"
+publication: "*Transactions in GIS* (Accepted)"
+publication_short: ""
 
 abstract: "With the increasing demands for geospatial analytics in industry and academia, the need for Geographic Information Systems/Science (GIS) education is on the rise. A growing number of departments in geography have launched or expanded their GIS graduate programs. However, the factors influencing students choosing GIS programs have not been examined yet. In this study, we looked at Chinese students applying for overseas GIS programs and examined factors influencing their decision-making. We distributed the survey in GISphere, one of the largest GIS international student communities, and 84 valid questionnaires were returned. We analyzed the spatial and demographic patterns of Chinese students applying for overseas GIS programs. We identify five main factors that affect their choices of GIS programs: (1) education quality and awareness, (2) physical, social, and political environments, (3) improved employment prospects, (4) personal recommendations, and (5) application process. Our study offers implications for the development of GIS graduate programs. We anticipate that the conclusions drawn from this research will benefit and advance geography and GIS education globally."
 
