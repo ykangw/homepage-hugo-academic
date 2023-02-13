@@ -45,7 +45,7 @@ links:
 - name: Full-Text
   url: https://ieeexplore.ieee.org/abstract/document/9202246
 
-url_pdf: ''
+url_pdf: 'https://www.researchgate.net/publication/345375014_Performance_Analysis_of_Everton_Football_Club_Based_on_Tracking_Data'
 url_code: ''
 url_dataset: ''
 url_poster: ''
