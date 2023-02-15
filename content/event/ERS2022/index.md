@@ -13,13 +13,6 @@ location: Barcelona, Spain
 #  country: United States
 
 summary: ERS 2022
-# abstract: "Background: Understanding the key factors affecting case fatality rates (CFRs) of COVID-19 is essential to guiding national response to pandemics. We aimed to investigate the country and period features of CFR in COVID-19 and predict the changes in CFR.
-
-# Method: Cross-temporal and cross-country variations in CFR were identified by Extreme Gradient Boosting models using multiple features, and the effects of features were explained by applying SHapley Additive exPlanations.
-
-# Results: The determinants of CFR changed during the COVID-19 pandemic from health conditions to a mixed effect dominated by vaccination rates (Fig 1). Overall, most countries have concurrent risk factors besides the main risk factors, and 156 countries were grouped into five clusters based on key CFR risk factors (Fig 1). A low vaccination rate drove cluster 1 was found primarily in sub-Saharan Africa and Latin America. Aging drove cluster 2, primarily distributed in the high-income European countries, and a high burden of disease characterises cluster 3 and low GDP related cluster 4 were scattered across continents. Furthermore, simulating a 5% increase in vaccination rates resulted in a 31.2% and 15.0% change in CFR for cluster 1 and cluster 3, respectively, but only 3.1% for cluster2. (Fig 1).
-
-# Conclusion: The features affecting COVID-19 CFRs show diversity across countries, and declining CFRs require more than increasing vaccination coverage."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -49,6 +42,7 @@ url_code: ""
 url_pdf: "https://s3.eu-central-1.amazonaws.com/m-anage.com.storage.ers/abstract_2022/95818.html.pdf"
 url_slides: ""
 url_video: ""
+url_DOI: "https://doi.org/10.1183/13993003.congress-2022.4631"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

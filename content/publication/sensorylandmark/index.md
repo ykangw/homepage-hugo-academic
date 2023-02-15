@@ -14,9 +14,9 @@ authors:
 - Xiaoji Niu
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 
 date: "2021-06-30T00:00:00Z"
 doi: "10.3390/mi12070781"
