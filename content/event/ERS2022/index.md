@@ -42,7 +42,7 @@ url_code: ""
 url_pdf: "https://s3.eu-central-1.amazonaws.com/m-anage.com.storage.ers/abstract_2022/95818.html.pdf"
 url_slides: ""
 url_video: ""
-url_DOI: "https://doi.org/10.1183/13993003.congress-2022.4631"
+doi: "10.1183/13993003.congress-2022.4631"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
