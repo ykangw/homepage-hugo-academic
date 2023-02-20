@@ -18,7 +18,7 @@ authors:
 - Song Gao
 
 date: "2023-02-15T00:00:00Z"
-doi: ""
+doi: "10.1111/tgis.13037"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-02-12T00:00:00Z"
