@@ -47,6 +47,8 @@ featured: false
 links:
 - name: Full-Text
   url: https://onlinelibrary.wiley.com/doi/full/10.1111/tgis.13037
+- name: Chinese Version
+  url: https://mp.weixin.qq.com/s/KFQ78Z25yiiJlAzH11MicQ
 
 url_pdf: 'https://onlinelibrary.wiley.com/doi/epdf/10.1111/tgis.13037'
 url_code: ''
