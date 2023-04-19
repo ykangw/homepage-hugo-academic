@@ -60,7 +60,7 @@ doi: "10.1183/13993003.congress-2022.4631"
 # - realtrips
 ---
 
-# Abstract 
+## Abstract 
 **Background:** Understanding the key factors affecting case fatality rates (CFRs) of COVID-19 is essential to guiding national response to pandemics. We aimed to investigate the country and period features of CFR in COVID-19 and predict the changes in CFR.
 
 **Method:** Cross-temporal and cross-country variations in CFR were identified by Extreme Gradient Boosting models using multiple features, and the effects of features were explained by applying SHapley Additive exPlanations.
