@@ -40,6 +40,8 @@ featured: false
 links:
 - name: Full-Text
   url: https://link.springer.com/article/10.1007/s44212-022-00018-w
+- name: Chinese Version
+  url: https://mp.weixin.qq.com/s/f-ys1Nqkghj43GyYFTqFCQ
 
 url_pdf: 'https://link.springer.com/content/pdf/10.1007/s44212-022-00018-w.pdf'
 url_code: 'https://github.com/c-zhong-ucl-ac-uk/Twitter-Internal-Migration'
