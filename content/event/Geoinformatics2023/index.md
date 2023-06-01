@@ -12,7 +12,7 @@ location: London, UK
 #  postcode: '94305'
 #  country: United States
 
-summary: CPGIS Geoinformatics 2022
+summary: CPGIS Geoinformatics 2023
 abstract: "Ultra Low Emission Zone (ULEZ) is a major policy initiative aimed at improving air quality by restricting polluting vehicles in London. To better understand the impact of ULEZ and its expansion on human mobility, we employ a Difference-in-Differences (DiD) approach using mobile phone location data to estimate the causal effect of the ULEZ expansion on the number of activities and travel distance of London residents. Results indicate that the ULEZ expansion has decreased both indices in both Inner London and the Greater London area."
 
 # Talk start and end times.
