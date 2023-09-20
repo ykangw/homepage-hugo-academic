@@ -20,6 +20,7 @@ bio: Centre for Advanced Spatial Analysis (CASA), UCL
 interests:
 - Urban Computing
 - GeoAI
+- Spatial Causal Inference
 - Localization
 
 # Education to show in About widget
@@ -46,9 +47,15 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ykangw
-- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+- icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=LmUPG6gAAAAJ
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Yikang_Wang4
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-6467-5953
 - icon: github
   icon_pack: fab
   link: https://github.com/ykangw
@@ -73,8 +80,8 @@ email: "yikang.wang.21@ucl.ac.uk"
 highlight_name: true
 ---
 
-Hi! I am Yikang Wang (王亦康), a second-year PhD student at {{< staticref "https://www.ucl.ac.uk/bartlett/casa" "newtab" >}}the Bartlett Centre for Advanced Spatial Analysis (CASA){{< /staticref >}}, {{< staticref "https://www.ucl.ac.uk" "newtab" >}}UCL{{< /staticref >}}, supervised by {{< staticref "https://imzhongchen.wordpress.com/" "newtab" >}}Dr Chen Zhong{{< /staticref >}} and {{< staticref "https://www.complexcity.info" "newtab" >}}Prof Michael Batty{{< /staticref >}}. Prior to this, I obtained a BEng in GIS from Wuhan University with honour, followed by an {{< staticref "https://www.imperial.ac.uk/study/pg/earth-science/computational-science" "newtab" >}}MSc in Computational Science{{< /staticref >}} at {{< staticref "https://www.imperial.ac.uk" "newtab" >}}Imperial College London{{< /staticref >}}.
+Hi! I am Yikang Wang (王亦康), a third-year PhD candidate at {{< staticref "https://www.ucl.ac.uk/bartlett/casa" "newtab" >}}the Bartlett Centre for Advanced Spatial Analysis (CASA){{< /staticref >}}, {{< staticref "https://www.ucl.ac.uk" "newtab" >}}UCL{{< /staticref >}}, supervised by {{< staticref "https://imzhongchen.wordpress.com/" "newtab" >}}Dr Chen Zhong{{< /staticref >}} and {{< staticref "https://www.complexcity.info" "newtab" >}}Prof Michael Batty{{< /staticref >}}. Prior to this, I obtained a BEng in GIS from Wuhan University with honours, followed by an {{< staticref "https://www.imperial.ac.uk/study/pg/earth-science/computational-science" "newtab" >}}MSc in Computational Science{{< /staticref >}} at {{< staticref "https://www.imperial.ac.uk" "newtab" >}}Imperial College London{{< /staticref >}}.
 
-I am working on the analysis of human mobility in the UK in {{< staticref "https://smartcityanalysis.com/index.html" "newtab" >}}realTRIPS (Redefining Variability: EvALuating Land Use and TRansport Impacts on Urban Mobility PatternS){{< /staticref >}} project. 
+I am currently working on my PhD thesis, titled "Exploring the Impacts of Charging Zones on Human Mobility using Mobile Phone Location Data and a Causal Inference Approach", as part of the {{< staticref "https://smartcityanalysis.com/index.html" "newtab" >}}realTRIPS (Redefining Variability: EvALuating Land Use and TRansport Impacts on Urban Mobility PatternS){{< /staticref >}} project. 
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
