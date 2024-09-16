@@ -66,3 +66,6 @@ related:
       weight: 100
     - name: categories
       weight: 70
+marketing:
+  analytics:
+    google_analytics: 'G-RPL5S9W5ES'
