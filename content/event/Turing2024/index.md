@@ -1,7 +1,7 @@
 ---
 title: Quantify the Impact of the ULEZ on Footfall Patterns in High Streets and Social Equality across London
 
-event: Turing Urban Analytics Workshop 2024: Transforming Urban Living with AI and Digital Twins
+event: Turing Urban Analytics Workshop 2024 - Transforming Urban Living with AI and Digital Twins
 event_url: https://www.turing.ac.uk/events/transforming-urban-living-ai-and-digital-twins
 
 location: Glasgow, UK
@@ -12,7 +12,7 @@ location: Glasgow, UK
 #  postcode: '94305'
 #  country: United States
 
-summary: CPGIS Geoinformatics 2023
+summary: Turing Urban Analytics Workshop 2024
 abstract: "As a crucial element of the economic and social structure of urban areas, high streets, particularly those in Outer London, are declining. To address the challenges of high street revitalisation and town centre vibrancy enhancement in Outer London, as well as to explore the potential impact of the Ultra Low Emission Zone (ULEZ) expansion on the local economy, this research investigated three key areas. First, it quantified the causal impact of the ULEZ expansion on visitor patterns in Outer London. Secondly, it examined the policy's effects on social equality. Lastly, it explored the socio-spatial heterogeneity of these impacts. Using the Spatially Robust Interrupted Time Series (SRITS) method, an adaptation of Zhang and Ning's SITS design, the study effectively controlled for seasonal trends and analysed how the social and spatial characteristics of different high streets shaped their response to the ULEZ. The results show that the ULEZ expansion did increase footfall on local high streets, particularly in deprived areas, where the policy intensified the reliance on nearby high streets. Furthermore, the study found that the composition and size of high streets play a crucial role in their vitality. These findings underscore the importance of supporting local businesses in Outer London, especially in disadvantaged areas, and provide strategic insights for post-ULEZ high street development."
 
 # Talk start and end times.
