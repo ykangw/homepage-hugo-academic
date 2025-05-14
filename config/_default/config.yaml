@@ -4,8 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Yikang Wang # Website name
-baseurl: 'https://yikang.site/' # Website URL
-copyright: '© Yikang Wang 2022' # Footer text, e.g. '© {year} Me'
+baseurl: 'https://yikang.wang/' # Website URL
+copyright: '© Yikang Wang 2025' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
@@ -47,7 +47,7 @@ outputs:
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
-  quality: 75
+  quality: 100
   anchor: smart
 timeout: 600000
 taxonomies:

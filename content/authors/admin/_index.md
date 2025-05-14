@@ -28,13 +28,13 @@ education:
   courses:
   - course: PhD in Spatial Analysis
     institution: University College London
-    year: 2021 - present
+    year: 2021–present
   - course: MSc in Applied Computational Science and Engineering
     institution: Imperial College London
-    year: 2020 - 2021
+    year: 2020–2021
   - course: BEng in GIS
     institution: Wuhan University
-    year: 2017 - 2020
+    year: 2017–2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -47,6 +47,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ykangw
+- icon: bluesy
+  icon_pack: fab
+  link: https://bsky.app/profile/yikang.wang
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=LmUPG6gAAAAJ
