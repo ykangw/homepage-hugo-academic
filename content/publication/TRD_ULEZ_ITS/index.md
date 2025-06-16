@@ -8,11 +8,11 @@ authors:
 - admin
 - Chen Zhong
 
-date: "2025-05-06T00:00:00Z"
-doi: "10.2139/ssrn.5168417"
+date: "2025-05-27T00:00:00Z"
+doi: "10.1016/j.trd.2025.104810"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-05-06T00:00:00Z"
+publishDate: "2025-05-27T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -37,7 +37,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: Full-Text
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5168417
+  url: https://doi.org/10.1016/j.trd.2025.104810
 # - name: Chinese Version
 #   url: https://mp.weixin.qq.com/s/f-ys1Nqkghj43GyYFTqFCQ
 
