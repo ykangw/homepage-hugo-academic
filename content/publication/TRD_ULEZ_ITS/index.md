@@ -21,7 +21,7 @@ publishDate: "2025-05-27T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Transportation Research Part D: Transport and Environment (Accepted)*"
+publication: "*Transportation Research Part D: Transport and Environment*"
 publication_short: ""
 
 abstract: The Ultra Low Emission Zone (ULEZ) aims to improve air quality by restricting polluting vehicles. While previous relevant research focused on air quality and vehicle counts, its impact on human mobility and socio-spatial inequalities remains underexplored. This study addresses this gap by quantifying the causal impact on human mobility using an extended Interrupted Time Series (ITS) model and large-scale anonymised mobile app data. We observed an initial sudden decrease, followed by a gradual recovery of travel in only 4 to 8 weeks across all zones. Overall, the change of longer travel distances and commute durations suggests slower travel and a shift to sustainable transport. However, the impact varied significantly across geographical areas and socio-demographic groups. Outer London experienced the most abrupt changes due to car dependence with spatial spillover effects to surrounding areas. These results highlight the need for targeted policies to ensure an equitable transition to sustainable urban transport.
