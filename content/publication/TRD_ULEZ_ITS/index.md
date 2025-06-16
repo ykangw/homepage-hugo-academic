@@ -41,8 +41,8 @@ links:
 # - name: Chinese Version
 #   url: https://mp.weixin.qq.com/s/f-ys1Nqkghj43GyYFTqFCQ
 
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S1361920925002202/pdfft?md5=073e13773b38e4681b18131a17aa3e98&pid=1-s2.0-S1361920925002202-main.pdf'
+url_code: 'https://github.com/c-zhong-ucl-ac-uk/ULEZ-Expansion'
 url_dataset: ''
 url_poster: ''
 url_project: ''
